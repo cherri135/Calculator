@@ -16,7 +16,6 @@ def CheckIfOperator(Char):
 def RemoveDoubleOperators(ProblemToCalculate):
 
     clean = ""
-    Oper = ""
 
     LastWasOper = False
 
