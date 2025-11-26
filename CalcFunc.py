@@ -218,11 +218,6 @@ def TakeProblem():
         except KeyboardInterrupt:
             print("\ney, u cancelled it")
 
-    if Problem[0] == "&":
-        print("not an input, probablt automatic windows msg, restarting")
-        time.sleep(1)
-        TakeProblem()
-
     ProblemToCalculate = FixInput(Problem)
 
     result = CalculateProblem(ProblemToCalculate)
