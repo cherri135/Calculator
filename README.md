@@ -1,2 +1,11 @@
 # Calculator
-A simple calculator in python, just 4 operators but not limit to how long equation is and absolutely impossible to break syntax (i hope)
+A simple calculator in python :P
+
+
+just 4 operators -_-
+
+theres no limit to how long an equation can be :0
+
+Automatically cleans an equation from anything that's incorrect :3
+
+No one is reading this anyways XD
