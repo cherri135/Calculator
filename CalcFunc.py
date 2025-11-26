@@ -80,10 +80,8 @@ def FixInput(Problem):
             except ValueError:
                 continue
         elif OperatorIs == False:
-            for o in operators:
-                if o == char:
-                    OperatorIs = True
-                    break
+            if CheckIfOperator(char) == True:
+                OperatorIs = True
         elif SecondNumberIs == False:
             try:
                 int(char)
