@@ -2,7 +2,7 @@
 A simple calculator in python :P
 
 
-just 4 operators -_-
+just 4 operators -_- (minus, plus, division and multiplication)
 
 theres no limit to how long an equation can be :0
 
